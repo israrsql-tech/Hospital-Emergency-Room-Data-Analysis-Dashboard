@@ -52,8 +52,7 @@ The dashboard analyzes:
   ## 📸 Dashboard Preview
 
 
-![Hospital Emergency Room Dashboard](Hospital%20Emergency%20Room%20Dashboard.png)
-
+https://github.com/israrsql-tech/Hospital-Emergency-Room-Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard%20OviewView.png
 
 ## 📌 Project Purpose
 
